@@ -1,0 +1,12 @@
+x=int(input())
+a=x%10
+x=x//10
+b=x%10
+x=x//10
+c=x%10
+x=x//10
+d=x%10
+e=x//10
+y=a+b+c+d+e
+y=y%10
+print(y)
