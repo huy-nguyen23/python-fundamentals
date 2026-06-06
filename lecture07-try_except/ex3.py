@@ -17,11 +17,3 @@ try:
     print('Area:',area)
 except ValueError as e:
     print('Error calculating area:',e)
-    
-    
-    
-    
-    
-    #      git add .
-    #      git commit-m 'python exercise 3 lecture 07'
-   #       git push
